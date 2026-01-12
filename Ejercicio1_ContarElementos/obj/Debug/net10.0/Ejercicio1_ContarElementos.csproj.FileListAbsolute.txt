@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\bin\Debug\net10.0\Ejercicio1_ContarElementos.exe
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\bin\Debug\net10.0\Ejercicio1_ContarElementos.deps.json
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\bin\Debug\net10.0\Ejercicio1_ContarElementos.runtimeconfig.json
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\bin\Debug\net10.0\Ejercicio1_ContarElementos.dll
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\bin\Debug\net10.0\Ejercicio1_ContarElementos.pdb
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\obj\Debug\net10.0\Ejercicio1_ContarElementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\obj\Debug\net10.0\Ejercicio1_ContarElementos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\obj\Debug\net10.0\Ejercicio1_ContarElementos.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\obj\Debug\net10.0\Ejercicio1_ContarElementos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\obj\Debug\net10.0\Ejercicio1_ContarElementos.dll
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\obj\Debug\net10.0\refint\Ejercicio1_ContarElementos.dll
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\obj\Debug\net10.0\Ejercicio1_ContarElementos.pdb
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\obj\Debug\net10.0\Ejercicio1_ContarElementos.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio1_ContarElementos\obj\Debug\net10.0\ref\Ejercicio1_ContarElementos.dll

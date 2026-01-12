@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\bin\Debug\net10.0\Ejercicio2_InvertirLista.exe
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\bin\Debug\net10.0\Ejercicio2_InvertirLista.deps.json
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\bin\Debug\net10.0\Ejercicio2_InvertirLista.runtimeconfig.json
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\bin\Debug\net10.0\Ejercicio2_InvertirLista.dll
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\bin\Debug\net10.0\Ejercicio2_InvertirLista.pdb
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\obj\Debug\net10.0\Ejercicio2_InvertirLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\obj\Debug\net10.0\Ejercicio2_InvertirLista.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\obj\Debug\net10.0\Ejercicio2_InvertirLista.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\obj\Debug\net10.0\Ejercicio2_InvertirLista.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\obj\Debug\net10.0\Ejercicio2_InvertirLista.dll
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\obj\Debug\net10.0\refint\Ejercicio2_InvertirLista.dll
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\obj\Debug\net10.0\Ejercicio2_InvertirLista.pdb
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\obj\Debug\net10.0\Ejercicio2_InvertirLista.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\Listas_Enlazadas_CSharp\Ejercicio2_InvertirLista\obj\Debug\net10.0\ref\Ejercicio2_InvertirLista.dll

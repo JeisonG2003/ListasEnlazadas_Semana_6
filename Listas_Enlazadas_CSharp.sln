@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1_ContarElementos", "Ejercicio1_ContarElementos\Ejercicio1_ContarElementos.csproj", "{A9D50354-0377-51E5-8DDE-55CA42033005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2_InvertirLista", "Ejercicio2_InvertirLista\Ejercicio2_InvertirLista.csproj", "{2467BE86-7F9C-5049-ED22-C54405FF0F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D50354-0377-51E5-8DDE-55CA42033005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D50354-0377-51E5-8DDE-55CA42033005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D50354-0377-51E5-8DDE-55CA42033005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D50354-0377-51E5-8DDE-55CA42033005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2467BE86-7F9C-5049-ED22-C54405FF0F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2467BE86-7F9C-5049-ED22-C54405FF0F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2467BE86-7F9C-5049-ED22-C54405FF0F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2467BE86-7F9C-5049-ED22-C54405FF0F14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98238BB7-3CA9-4FA3-B48F-5F0D153518E6}
+	EndGlobalSection
+EndGlobal
